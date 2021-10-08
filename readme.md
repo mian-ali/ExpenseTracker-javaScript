@@ -1,4 +1,4 @@
-## Expense Tracker
+# Expense Tracker
 
 Keep track of income and expenses. Add and remove items and save to local storage
 
@@ -10,3 +10,7 @@ Keep track of income and expenses. Add and remove items and save to local storag
 - Add new transation and reflect in total
 - Delete items from DOM
 - Persist to local storage
+
+## live preview Project
+
+
